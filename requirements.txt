@@ -1,0 +1,12 @@
+streamlit==1.29.0
+PyMuPDF==1.23.3
+sentence-transformers==2.2.2
+faiss-cpu==1.7.4
+ibm-watson-machine-learning==1.0.335
+python-dotenv==1.0.0
+numpy==1.24.3
+pandas==2.0.3
+langchain==0.0.354
+langchain-community==0.0.13
+tiktoken==0.5.1
+plotly==5.17.0
